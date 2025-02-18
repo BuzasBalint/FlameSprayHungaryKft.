@@ -1,4 +1,4 @@
-**Flamespray Hungary Kft. hálózata és szerver szolgáltatásai – Fiktív projekt bemutatása**  
+**Flamespray Hungary Kft. – Fiktív projekt bemutatása**  
 
 Az iskolai tanulmányaim alatt készítettem egy egyedi és részletes projektet egy társammal, amely egy teljesen fiktív témára épül: a Flamespray Hungary Kft. hálózatának és szerver szolgáltatásainak tervezése és működésének bemutatása. A projekt célja nemcsak a szakmai tudásom gyakorlása és bővítése volt, hanem az is, hogy modellezzek egy valósághű IT-infrastruktúrát, amely egy modern vállalat működéséhez szükséges lehet.  
 
